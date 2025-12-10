@@ -1,0 +1,211 @@
+cv_id,primary_sector,cv_text,skills,years_of_experience
+CV_001,E-Ticaret,"ÖZET: 13 yıllık deneyime sahip E-Ticaret profesyoneliyim. 
+        SEO, Conversion Optimization, Penetration Testing, Power BI, Inventory Management teknolojilerinde uzmanım ve 
+        Shopify, Apache Spark, Scikit-learn konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        SEO, Conversion Optimization, Penetration Testing, Power BI, Inventory Management, Shopify, Apache Spark, Scikit-learn, A/B Testing, CRM, User Experience Design, SIEM, Google Analytics, Python, Payment Integration
+        
+        ÇALIŞMA DENEYİMİ:
+        - E-Ticaret alanında 13 yıl profesyonel deneyim
+        - Veri Bilimi, Siber Güvenlik sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Veri Bilimi alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli E-Ticaret projelerinde geliştirme ve mimari tasarım
+        - SEO, Conversion Optimization, Penetration Testing kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","SEO, Conversion Optimization, Penetration Testing, Power BI, Inventory Management, Shopify, Apache Spark, Scikit-learn, A/B Testing, CRM, User Experience Design, SIEM, Google Analytics, Python, Payment Integration",13
+CV_002,E-Ticaret,"ÖZET: 2 yıllık deneyime sahip E-Ticaret profesyoneliyim. 
+        Conversion Optimization, SEO, Electronic Health Records, Inventory Management, Shopify teknolojilerinde uzmanım ve 
+        Magento, Product Management, User Experience Design konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        Conversion Optimization, SEO, Electronic Health Records, Inventory Management, Shopify, Magento, Product Management, User Experience Design, A/B Testing, Bioinformatics, C++, Circuit Design, Google Analytics, Python, Payment Integration
+        
+        ÇALIŞMA DENEYİMİ:
+        - E-Ticaret alanında 2 yıl profesyonel deneyim
+        - Sağlık Teknolojileri, IoT ve Gömülü Sistemler sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Veri Bilimi alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli E-Ticaret projelerinde geliştirme ve mimari tasarım
+        - Conversion Optimization, SEO, Electronic Health Records kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","Conversion Optimization, SEO, Electronic Health Records, Inventory Management, Shopify, Magento, Product Management, User Experience Design, A/B Testing, Bioinformatics, C++, Circuit Design, Google Analytics, Python, Payment Integration",2
+CV_003,Oyun Geliştirme,"ÖZET: 8 yıllık deneyime sahip Oyun Geliştirme profesyoneliyim. 
+        Multiplayer Systems, Penetration Testing, Microservices, C#, Java teknolojilerinde uzmanım ve 
+        C++, Unreal Engine, Unity konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        Multiplayer Systems, Penetration Testing, Microservices, C#, Java, C++, Unreal Engine, Unity, Cryptography, Kali Linux, Blender, 3D Modeling
+        
+        ÇALIŞMA DENEYİMİ:
+        - Oyun Geliştirme alanında 8 yıl profesyonel deneyim
+        - Yazılım Geliştirme, Siber Güvenlik sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Yapay Zeka alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli Oyun Geliştirme projelerinde geliştirme ve mimari tasarım
+        - Multiplayer Systems, Penetration Testing, Microservices kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","Multiplayer Systems, Penetration Testing, Microservices, C#, Java, C++, Unreal Engine, Unity, Cryptography, Kali Linux, Blender, 3D Modeling",8
+CV_004,Veri Bilimi,"ÖZET: 2 yıllık deneyime sahip Veri Bilimi profesyoneliyim. 
+        HL7, Power BI, Game Physics, Medical Imaging, Data Visualization teknolojilerinde uzmanım ve 
+        Hadoop, ETL, Tableau konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        HL7, Power BI, Game Physics, Medical Imaging, Data Visualization, Hadoop, ETL, Tableau, Python, 3D Modeling, R
+        
+        ÇALIŞMA DENEYİMİ:
+        - Veri Bilimi alanında 2 yıl profesyonel deneyim
+        - Oyun Geliştirme, Sağlık Teknolojileri sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Sistem Analizi alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli Veri Bilimi projelerinde geliştirme ve mimari tasarım
+        - HL7, Power BI, Game Physics kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","HL7, Power BI, Game Physics, Medical Imaging, Data Visualization, Hadoop, ETL, Tableau, Python, 3D Modeling, R",2
+CV_005,Siber Güvenlik,"ÖZET: 4 yıllık deneyime sahip Siber Güvenlik profesyoneliyim. 
+        Penetration Testing, Firewall, Microservices, Agile, Docker teknolojilerinde uzmanım ve 
+        JavaScript, Kubernetes, Cost Optimization konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        Penetration Testing, Firewall, Microservices, Agile, Docker, JavaScript, Kubernetes, Cost Optimization, SIEM, Cryptography, Network Security, OWASP, Security Auditing
+        
+        ÇALIŞMA DENEYİMİ:
+        - Siber Güvenlik alanında 4 yıl profesyonel deneyim
+        - Bulut Bilişim, Yazılım Geliştirme sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Veri Bilimi alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli Siber Güvenlik projelerinde geliştirme ve mimari tasarım
+        - Penetration Testing, Firewall, Microservices kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","Penetration Testing, Firewall, Microservices, Agile, Docker, JavaScript, Kubernetes, Cost Optimization, SIEM, Cryptography, Network Security, OWASP, Security Auditing",4
+CV_006,Yapay Zeka,"ÖZET: 4 yıllık deneyime sahip Yapay Zeka profesyoneliyim. 
+        Hugging Face, TensorFlow, Transformers, Statistical Analysis, MLOps teknolojilerinde uzmanım ve 
+        Java, Regulatory Compliance, Hadoop konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        Hugging Face, TensorFlow, Transformers, Statistical Analysis, MLOps, Java, Regulatory Compliance, Hadoop, PyTorch, ETL, Keras, Feature Engineering
+        
+        ÇALIŞMA DENEYİMİ:
+        - Yapay Zeka alanında 4 yıl profesyonel deneyim
+        - Veri Bilimi, Finans Teknolojileri sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Sistem Analizi alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli Yapay Zeka projelerinde geliştirme ve mimari tasarım
+        - Hugging Face, TensorFlow, Transformers kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","Hugging Face, TensorFlow, Transformers, Statistical Analysis, MLOps, Java, Regulatory Compliance, Hadoop, PyTorch, ETL, Keras, Feature Engineering",4
+CV_007,Yapay Zeka,"ÖZET: 9 yıllık deneyime sahip Yapay Zeka profesyoneliyim. 
+        HL7, TensorFlow, Transformers, Medical Imaging, MLOps teknolojilerinde uzmanım ve 
+        Deep Learning, Data Visualization, Hadoop konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        HL7, TensorFlow, Transformers, Medical Imaging, MLOps, Deep Learning, Data Visualization, Hadoop, Bioinformatics, Python, Feature Engineering, R, GPT
+        
+        ÇALIŞMA DENEYİMİ:
+        - Yapay Zeka alanında 9 yıl profesyonel deneyim
+        - Veri Bilimi, Sağlık Teknolojileri sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Yazılım Geliştirme alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli Yapay Zeka projelerinde geliştirme ve mimari tasarım
+        - HL7, TensorFlow, Transformers kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","HL7, TensorFlow, Transformers, Medical Imaging, MLOps, Deep Learning, Data Visualization, Hadoop, Bioinformatics, Python, Feature Engineering, R, GPT",9
+CV_008,IoT ve Gömülü Sistemler,"ÖZET: 6 yıllık deneyime sahip IoT ve Gömülü Sistemler profesyoneliyim. 
+        Raspberry Pi, Smart Contracts, Wireless Communication, Sensor Integration, Docker teknolojilerinde uzmanım ve 
+        C, Microcontrollers, RTOS konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        Raspberry Pi, Smart Contracts, Wireless Communication, Sensor Integration, Docker, C, Microcontrollers, RTOS, Azure, EC2, MQTT, Embedded Linux, SQL
+        
+        ÇALIŞMA DENEYİMİ:
+        - IoT ve Gömülü Sistemler alanında 6 yıl profesyonel deneyim
+        - Bulut Bilişim, Finans Teknolojileri sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Yapay Zeka alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli IoT ve Gömülü Sistemler projelerinde geliştirme ve mimari tasarım
+        - Raspberry Pi, Smart Contracts, Wireless Communication kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","Raspberry Pi, Smart Contracts, Wireless Communication, Sensor Integration, Docker, C, Microcontrollers, RTOS, Azure, EC2, MQTT, Embedded Linux, SQL",6
+CV_009,Siber Güvenlik,"ÖZET: 5 yıllık deneyime sahip Siber Güvenlik profesyoneliyim. 
+        Penetration Testing, Firewall, Algorithmic Trading, Performance Optimization, Risk Modeling teknolojilerinde uzmanım ve 
+        Wireshark, SIEM, Cryptography konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        Penetration Testing, Firewall, Algorithmic Trading, Performance Optimization, Risk Modeling, Wireshark, SIEM, Cryptography, Blender, Network Security, OWASP, Incident Response, Security Auditing, Payment Gateway Integration, Burp Suite
+        
+        ÇALIŞMA DENEYİMİ:
+        - Siber Güvenlik alanında 5 yıl profesyonel deneyim
+        - Finans Teknolojileri, Oyun Geliştirme sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Yapay Zeka alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli Siber Güvenlik projelerinde geliştirme ve mimari tasarım
+        - Penetration Testing, Firewall, Algorithmic Trading kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","Penetration Testing, Firewall, Algorithmic Trading, Performance Optimization, Risk Modeling, Wireshark, SIEM, Cryptography, Blender, Network Security, OWASP, Incident Response, Security Auditing, Payment Gateway Integration, Burp Suite",5
+CV_010,Bulut Bilişim,"ÖZET: 12 yıllık deneyime sahip Bulut Bilişim profesyoneliyim. 
+        HL7, Electronic Health Records, C, Google Cloud, Kubernetes teknolojilerinde uzmanım ve 
+        S3, Terraform, EC2 konularında ileri düzey bilgiye sahibim.
+        
+        TEKNİK BECERİLER:
+        HL7, Electronic Health Records, C, Google Cloud, Kubernetes, S3, Terraform, EC2, Bioinformatics, PCB Design, Telemedicine Platforms, Serverless Architecture
+        
+        ÇALIŞMA DENEYİMİ:
+        - Bulut Bilişim alanında 12 yıl profesyonel deneyim
+        - Sağlık Teknolojileri, IoT ve Gömülü Sistemler sektörlerinde proje deneyimi
+        - Büyük ölçekli projelerde takım liderliği ve geliştirme deneyimi
+        - Agile/Scrum metodolojileri ile çalışma tecrübesi
+        
+        EĞİTİM:
+        - Bilgisayar Mühendisliği / Yazılım Mühendisliği Lisans
+        - Veri Bilimi alanında sertifikalar
+        
+        PROJELER:
+        - Çeşitli Bulut Bilişim projelerinde geliştirme ve mimari tasarım
+        - HL7, Electronic Health Records, C kullanarak ölçeklenebilir sistemler geliştirme
+        - Performans optimizasyonu ve kod kalitesi iyileştirmeleri","HL7, Electronic Health Records, C, Google Cloud, Kubernetes, S3, Terraform, EC2, Bioinformatics, PCB Design, Telemedicine Platforms, Serverless Architecture",12
